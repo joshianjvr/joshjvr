@@ -1,7 +1,7 @@
 # ⚡ Hello, I'm Joshua! 👋
 
 ### 🚀 Full-Stack Web Developer | Fresh Graduate
-Highly motivated IT graduate with a strong foundation in modern web technologies. I specialize in building responsive frontend interfaces and scalable backend systems. I am passionate about clean code, performance optimization, and exploring emerging technologies like DePIN.
+Highly motivated IT graduate with a strong foundation in building management systems and automation tools. I specialize in developing end-to-end solutions that solve real-world problems through clean code and efficient database design.
 
 ---
 
@@ -17,30 +17,20 @@ Highly motivated IT graduate with a strong foundation in modern web technologies
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" alt="Backend Tools" />
 </p>
 
-#### **Design & Multimedia**
+#### **Design & Workflow**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" alt="Design Tools" />
-</p>
-
-#### **Workflow & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Dev Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,id,pr,git,github,vscode" alt="Tools" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
-* **DWCV Student Portal**: A full-stack web application designed to streamline student records and school announcements.
-* **YouTube Automation Suite**: A collection of tools/scripts focused on content workflow optimization.
-* **MERN Dashboard**: A responsive administrative interface built with MongoDB, Express, React, and Node.js.
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Stats Card" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
+* **🎓 DWCV Student Portal** – A comprehensive web-based portal for managing student records, grades, and school-wide announcements.
+* **🏥 Clinic Management & Appointment System** – An integrated platform for healthcare providers to manage patient records and schedule digital appointments.
+* **📚 Book Borrowing System** – A library management solution featuring automated tracking for borrowed items, due dates, and inventory status.
+* **📦 Inventory Management System** – A robust tool for tracking stock levels, equipment history, and office supplies.
+* **🤖 YouTube Automation Suite** – Custom scripts and workflows designed to optimize content creation and channel management.
 
 ---
 
@@ -55,4 +45,4 @@ Highly motivated IT graduate with a strong foundation in modern web technologies
 </p>
 
 ---
-*"Turning complex problems into elegant code."*
+*"Building the future, one system at a time."*
