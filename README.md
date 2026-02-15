@@ -1,15 +1,15 @@
 # ⚡ Hello, I'm Joshua! 👋
 
-### 🎓 4th Year BSIT Student | Aspiring Full-Stack Developer
-I am currently finishing my final year in Information Technology. I serve as the **President of the College of Information Technology Executive Council**, where I lead student initiatives and manage tech-driven events. I'm passionate about building clean, functional web applications and exploring the future of DePIN and AI.
+### 🚀 Full-Stack Web Developer | Fresh Graduate
+Highly motivated IT graduate with a strong foundation in modern web technologies. I specialize in building responsive frontend interfaces and scalable backend systems. I am passionate about clean code, performance optimization, and exploring emerging technologies like DePIN.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### **Frontend & UI/UX**
+#### **Frontend Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,ps,ai" alt="Frontend Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Tools" />
 </p>
 
 #### **Backend & Database**
@@ -17,27 +17,34 @@ I am currently finishing my final year in Information Technology. I serve as the
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" alt="Backend Tools" />
 </p>
 
-#### **Tools & Specialized Software**
+#### **Design & Multimedia**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,pr" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" alt="Design Tools" />
+</p>
+
+#### **Workflow & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Dev Tools" />
 </p>
 
 ---
 
-### 📂 Current Projects
-* **[DWCV Student Portal](https://github.com/your-username/repo-name)**: A web-based portal designed for Divine Word College of Vigan, built for my Capstone project.
-* **YouTube Automation Tools**: Developing scripts to streamline content creation workflows.
-* **DePIN Research**: Exploring decentralized physical infrastructure networks.
+### 📂 Featured Projects
+* **DWCV Student Portal**: A full-stack web application designed to streamline student records and school announcements.
+* **YouTube Automation Suite**: A collection of tools/scripts focused on content workflow optimization.
+* **MERN Dashboard**: A responsive administrative interface built with MongoDB, Express, React, and Node.js.
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Stats Card" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
 
 ---
 
-### 📫 Connect with me:
+### 📫 Let's Connect:
 <p align="left">
 <a href="https://www.instagram.com/joshian.jvr/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -48,4 +55,4 @@ I am currently finishing my final year in Information Technology. I serve as the
 </p>
 
 ---
-*"Building the future, one commit at a time."*
+*"Turning complex problems into elegant code."*
